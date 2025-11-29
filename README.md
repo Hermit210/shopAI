@@ -2,7 +2,7 @@
 
 An intelligent shopping platform that uses AI to provide personalized product recommendations based on natural language queries.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Recommendations**: Describe what you need in plain English, and get instant product suggestions
 - **Smart Product Filtering**: Automatically filters by budget, category, and preferences
@@ -17,7 +17,7 @@ An intelligent shopping platform that uses AI to provide personalized product re
 - **CSS3** - Styling with responsive design
 - **AI Integration** - Smart recommendation system
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -40,19 +40,19 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 1. **Describe Your Need**: Type what you're looking for (e.g., "I need a budget laptop for work")
 2. **AI Analyzes**: The system processes your request and understands your requirements
 3. **Get Recommendations**: Receive personalized product suggestions instantly
 
-## 📱 Pages
+##  Pages
 
 - **Home**: Hero banner, AI search, categories, and features
 - **Products**: Browse all 22 products across 7 categories
 - **AI Recommendations**: View personalized product suggestions
 
-## 🎨 Design
+##  Design
 
 - Black background (#000, #1a1a1a)
 - Orange accents (#ff6600)
@@ -60,15 +60,8 @@ http://localhost:5173
 - Fully responsive layout
 - Smooth hover effects and transitions
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues and pull requests.
 
-## 📄 License
-
-MIT License
-
-## 👨‍💻 Author
 
 Created with ❤️ by Hermit210
 

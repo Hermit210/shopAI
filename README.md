@@ -10,7 +10,7 @@ An intelligent shopping platform that uses AI to provide personalized product re
 - **Modern UI**: Clean black and orange theme with smooth animations
 - **Multiple Categories**: Phones, Laptops, Clothing, Furniture, Books, Sports, and Food
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React** - Frontend framework
 - **Vite** - Build tool
@@ -63,8 +63,7 @@ http://localhost:5173
 
 
 
-Created with ❤️ by Hermit210
 
 ---
 
-**Note**: This is a demonstration project showcasing AI-powered product recommendations with a modern, responsive UI.
+

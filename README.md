@@ -52,13 +52,6 @@ http://localhost:5173
 - **Products**: Browse all 22 products across 7 categories
 - **AI Recommendations**: View personalized product suggestions
 
-##  Design
-
-- Black background (#000, #1a1a1a)
-- Orange accents (#ff6600)
-- White/gray text (#fff, #ccc)
-- Fully responsive layout
-- Smooth hover effects and transitions
 
 
 

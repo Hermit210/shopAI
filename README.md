@@ -4,11 +4,11 @@ An intelligent shopping platform that uses AI to provide personalized product re
 
 ##  Features
 
-- **AI-Powered Recommendations**: Describe what you need in plain English, and get instant product suggestions
-- **Smart Product Filtering**: Automatically filters by budget, category, and preferences
+- **AI-Powered Recommendations**:  Describe what you need in plain English, and get instant product suggestions
+- **Smart Product Filtering**:  Automatically filters by budget, category, and preferences
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
-- **Modern UI**: Clean black and orange theme with smooth animations
-- **Multiple Categories**: Phones, Laptops, Clothing, Furniture, Books, Sports, and Food
+- **Modern UI**:  Clean black and orange theme with smooth animations
+- **Multiple Categories**:  Phones, Laptops, Clothing, Furniture, Books, Sports, and Food
 
 ##  Technologies Used
 
